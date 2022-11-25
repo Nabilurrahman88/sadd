@@ -1,0 +1,26 @@
+.mmama {
+    background-color: black;
+}
+
+.kaka {
+    color: white;
+    padding-top: 10px;
+
+}
+
+.mama {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.mamaa {
+    font-size: 100px;
+    color: rgb(69, 51, 51);
+}
+
+.mama img {
+    height: 300px;
+}
